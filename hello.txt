@@ -7,4 +7,5 @@ branch1
 dddd
 eee
 ffff
+<<<<<<< HEAD
 mmmmmmmmmmmmm
